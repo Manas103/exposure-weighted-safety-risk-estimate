@@ -1,0 +1,25 @@
+Fleet bins: 5, miles simulated per bin: 500000
+Ground-truth exposure-weighted rate (never seen by the estimator): 2.159000e-06 per mile
+
+  bin=urban_0_25mph          true_p=3.000e-06 n_events=  3 rate_hat=6.000e-06
+  bin=arterial_25_35mph      true_p=1.300e-06 n_events=  0 rate_hat=0.000e+00
+  bin=arterial_35_45mph      true_p=1.500e-06 n_events=  1 rate_hat=2.000e-06
+  bin=suburban_45_55mph      true_p=2.000e-06 n_events=  3 rate_hat=6.000e-06
+  bin=highway_55plus_mph     true_p=2.600e-06 n_events=  0 rate_hat=0.000e+00
+
+Simulation wall-clock: 0.009s
+Total simulated events: 7 over 2500000 total miles across all bins
+Exposure-weighted fleet collision rate (DuckDB SQL aggregation): 3.260000e-06 per mile
+  -> 306,748 miles per event
+  -> 326.00 events per 100M vehicle miles
+
+Human benchmark: 188.00 crashes per 100M VMT
+  Source: NHTSA Traffic Safety Facts (police-reported crashes, all severities): ~6.0M crashes/year over ~3.2T vehicle miles traveled/year implies ~188 crashes per 100M VMT. Stated as a fixed, cited public figure, not fetched live by this repository.
+  Simulated-fleet-rate / human-rate ratio: 1.734x
+
+Zero-event bins this run (2 of 5): ['arterial_25_35mph', 'highway_55plus_mph']
+  urban_0_25mph          x=  3  point=6.000e-06  95% CI=[1.690e-06, 1.601e-05]
+  arterial_25_35mph      x=  0  point=0.000e+00  95% CI=[0.000e+00, 5.024e-06]  <- zero-event bin, interval is the honest report, not a rate of zero
+  arterial_35_45mph      x=  1  point=2.000e-06  95% CI=[2.158e-07, 9.348e-06]
+  suburban_45_55mph      x=  3  point=6.000e-06  95% CI=[1.690e-06, 1.601e-05]
+  highway_55plus_mph     x=  0  point=0.000e+00  95% CI=[0.000e+00, 5.024e-06]  <- zero-event bin, interval is the honest report, not a rate of zero

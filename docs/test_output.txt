@@ -1,0 +1,30 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-8.3.2, pluggy-1.7.0 -- C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate
+configfile: pyproject.toml
+collecting ... collected 21 items
+
+tests/test_benchmark.py::test_rate_conversion_round_trips_with_miles_per_event PASSED [  4%]
+tests/test_benchmark.py::test_miles_per_event_rejects_nonpositive_rate PASSED [  9%]
+tests/test_benchmark.py::test_benchmark_ratio_is_one_when_simulated_equals_human_rate PASSED [ 14%]
+tests/test_benchmark.py::test_benchmark_ratio_scales_linearly PASSED     [ 19%]
+tests/test_estimators.py::test_naive_monte_carlo_unbiased_on_average PASSED [ 23%]
+tests/test_estimators.py::test_importance_sampling_unbiased_on_average PASSED [ 28%]
+tests/test_estimators.py::test_importance_sampling_rejects_proposal_not_greater_than_true PASSED [ 33%]
+tests/test_estimators.py::test_importance_sampling_has_lower_variance_than_naive_for_rare_event PASSED [ 38%]
+tests/test_estimators.py::test_required_samples_formula_scales_inversely_with_target_squared PASSED [ 42%]
+tests/test_fleet_dgp.py::test_weights_sum_to_one PASSED                  [ 47%]
+tests/test_fleet_dgp.py::test_probabilities_in_range PASSED              [ 52%]
+tests/test_fleet_dgp.py::test_exposure_weighted_true_rate_between_bin_extremes PASSED [ 57%]
+tests/test_fleet_dgp.py::test_validate_rejects_bad_weights PASSED        [ 61%]
+tests/test_jeffreys.py::test_zero_events_gives_nonzero_upper_bound_not_a_zero_rate PASSED [ 66%]
+tests/test_jeffreys.py::test_interval_contains_point_estimate_for_positive_counts PASSED [ 71%]
+tests/test_jeffreys.py::test_interval_width_shrinks_as_exposure_grows PASSED [ 76%]
+tests/test_jeffreys.py::test_rejects_invalid_inputs PASSED               [ 80%]
+tests/test_jeffreys.py::test_empirical_coverage_near_nominal_by_simulation PASSED [ 85%]
+tests/test_mart.py::test_sql_matches_independent_numpy_reference PASSED  [ 90%]
+tests/test_mart.py::test_totals_match_input_records PASSED               [ 95%]
+tests/test_mart.py::test_rate_is_weighted_average_bounded_by_bin_extremes PASSED [100%]
+
+============================= 21 passed in 1.15s ==============================

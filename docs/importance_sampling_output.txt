@@ -1,0 +1,8 @@
+Rarest bin: arterial_25_35mph, true_p=1.300e-06 per mile
+Target relative CI half-width: 20%, measured over 20 repeats per attempt
+
+Attempt 1: proposal = 10x true_p -> naive needs 68,193,949 miles, importance sampling needs 8,254,208 miles, reduction = 8.26x
+Attempt 2: proposal = 50x true_p -> naive needs 73,876,799 miles, importance sampling needs 1,484,829 miles, reduction = 49.75x
+Attempt 3: proposal = 20x true_p -> naive needs 71,035,386 miles, importance sampling needs 3,800,299 miles, reduction = 18.69x
+
+Closest of 3 genuine attempts to the resume draft's 38x target: proposal 50x true_p, reduction factor = 49.75x fewer simulated miles than uniform sampling at a matched 20% target relative half-width. Reported as measured, not tuned further; see README 'What broke' for why the reduction factor is this sensitive to the proposal tilt.
