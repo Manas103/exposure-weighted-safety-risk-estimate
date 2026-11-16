@@ -1,0 +1,812 @@
+g++ not available, if using conda: `conda install gxx`
+g++ not available, if using conda: `conda install gxx`
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+NUTS[nutpie]: [mu0, bin_eff, alpha]
+Running 200 refits, draws=100, tune=100, n_workers=1
+
+Wall-clock: 1025.6s (5.128s/refit average, 1 workers)
+Bins: 12, average fraction of bins with zero observed events per period: 0.884
+
+Pooled (partial-pooling) 95% posterior-interval coverage of the held-out rate: 0.9463 over 2400 (refit, bin) checks
+Unpooled 95% posterior-interval coverage of the held-out rate: 0.9812 over 2400 (refit, bin) checks
+
+Total NUTS divergences: pooled=16, unpooled=0
+DONE_MARKER

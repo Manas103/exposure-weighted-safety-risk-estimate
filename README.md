@@ -13,6 +13,17 @@ below was measured by running the code in this repository, not targeted
 to match a resume draft; two of the headline numbers missed their target
 after three genuine attempts each and are reported as measured.
 
+**Extended (Nov. 2026)** with a hierarchical Bayesian negative-binomial
+GLM (PyMC, MCMC via the `nutpie` NUTS backend): a 12-bin version of the
+fleet where most bins observe zero events, a partial-pooling model that
+shares information across bins against a fully unpooled baseline, and a
+repeated-refit simulation checking whether each model's 95% posterior
+interval actually covers a held-out period's own observed rate as often
+as it claims to. See "Extension: Hierarchical Bayesian Partial Pooling"
+below for the architecture, validation, findings and measured results
+specific to this extension; everything above this point describes the
+original project unchanged.
+
 ## Why this exists
 
 An autonomous-vehicle safety case cannot wait for enough real driving
@@ -262,6 +273,221 @@ importance-sampling reduction factor), but that project is two-arm
 hypothesis testing on an abundant metric, not rare-event estimation with
 exposure weighting, and the two were compared and kept separate rather
 than merged when this project was designed.
+
+## Extension: Hierarchical Bayesian Partial Pooling
+
+### Honest framing (extension)
+
+- **This extension uses a different, 12-bin fleet, not the original 5-bin
+  one.** `src/risk/hb_fleet_dgp.py` splits the original 5 road-speed bands
+  by a dense/light-traffic context plus two extra bins, with lower
+  per-bin exposure (60,000 miles/bin instead of 500,000), so that *most*
+  of the 12 bins land at zero observed events in a single period, which
+  the original 5-bin fleet does not reliably do. The two fleets
+  deliberately disagree; this is a stress test for pooling across many
+  sparse bins, not a better fleet design.
+- **"Unpooled" means a fixed, wide, not-estimated-from-data prior per
+  bin** (`Normal(0, 5)` on the log-rate scale), not a frequentist MLE with
+  a Wald confidence interval. Both the pooled and unpooled models are
+  fit by the same MCMC machinery; the only difference is whether the
+  per-bin log-rate offset's own prior width is shared and estimated
+  (pooled) or fixed in advance (unpooled).
+- **Coverage is checked against a held-out period's own observed rate,
+  not the (unobservable, in a real deployment) true generating rate.**
+  The held-out period is simulated at 50x the training period's exposure
+  (the same idea as the extreme-value project's 40x-longer held-out run),
+  long enough that its own empirical rate is a much less noisy proxy for
+  ground truth than the sparse, often-zero training period, without
+  reaching into the simulation and reading off the true rate the model
+  was never shown.
+- **MCMC here means PyMC's NUTS via the `nutpie` backend, not PyMC's
+  default sampler.** This machine has no `g++`, so PyMC's default
+  Python-mode NUTS measured about 16s per fit; `nutpie` (a separately
+  compiled Rust NUTS implementation PyMC can delegate to) measured about
+  2-3s per fit after a one-time compile, which is what makes a
+  repeated-refit coverage simulation feasible at all on this machine. See
+  "What broke (extension)" below.
+- **The coverage simulation ran at 200 refits, not the 2,000 originally
+  planned**, because of a severe, disk-space-driven infrastructure
+  failure partway through the first large-scale attempt; see "What broke
+  (extension)".
+
+### Architecture (extension)
+
+```
+  src/risk/
+    hb_fleet_dgp.py       # the 12-bin fleet: most bins land at zero events at the design exposure
+    hb_glm.py                # pooled vs. unpooled NB GLM model builders, MCMC refit, credible intervals
+    coverage_sim.py             # multiprocess repeated-refit coverage simulation
+  tests/
+    test_hb_glm.py                  # shrinkage invariant, interval invariants, fast-draws smoke tests
+    test_coverage_sim.py               # end-to-end plumbing check of the multiprocess harness itself
+  scripts/
+    run_hb_glm_single_fleet.py            # the single-fleet, most-bins-zero demonstration behind docs/hb_glm_single_fleet_output.txt
+    run_coverage_simulation.py               # the repeated-refit coverage measurement, CLI-configurable (n_refits, draws, tune, n_workers)
+  docs/
+    hb_glm_single_fleet_output.txt              # raw stdout (committed)
+    coverage_simulation_output.txt                 # raw stdout from the reported 200-refit run (committed)
+```
+
+### Why partial pooling is a shared, estimated sigma, not just "more bins helping each other" in the abstract
+
+The pooled model's bin-level log-rate offsets are drawn from
+`Normal(0, sigma)` with `sigma` itself given a prior and estimated from
+all 12 bins' data jointly; a sparse bin's posterior is pulled toward the
+population mean by exactly as much as the data from the other 11 bins
+supports that pooling being a good idea, not by a fixed, hand-chosen
+amount. The unpooled model's fixed `Normal(0, 5)` prior has no such
+feedback: it is wide enough to not constrain any one bin much, but it
+never learns from the other bins at all.
+
+### Why the coverage target is a held-out rate, not the known true rate
+
+This project's own validation elsewhere (`test_jeffreys.py`'s
+`test_empirical_coverage_near_nominal_by_simulation`) checks coverage
+against a *known* true rate, which is the right check for validating an
+interval *formula*. This extension instead asks a more practically
+relevant question: if a safety team actually ran this fleet for another,
+longer period, would last period's posterior interval have covered what
+they then observed? That is a harder, noisier target than the true rate
+itself, since the held-out period's own observed rate carries its own
+sampling error.
+
+## Validation (extension)
+
+Two additional layers, in `tests/test_hb_glm.py` and
+`test_coverage_sim.py` (29 tests total now passing, raw output not
+re-captured separately; see the original "Validation" section above for
+`docs/test_output.txt`'s scope):
+
+1. **An invariant, not a plausibility check**:
+   `test_pooled_posterior_shrinks_more_than_unpooled_for_sparse_data`
+   fits both models to the same sparse draw and asserts the pooled
+   posterior's standard deviation is smaller than the unpooled one's for
+   at least 10 of 12 bins, which is what "partial pooling" is defined to
+   do, not just something it happened to do once.
+2. **A multiprocess plumbing smoke test**:
+   `test_coverage_simulation_runs_and_returns_bounded_fractions` runs the
+   actual `coverage_sim.run_coverage_simulation` function (the same code
+   path `scripts/run_coverage_simulation.py` uses) at a tiny scale (4
+   refits, 2 workers) and checks every returned fraction is a valid
+   probability, catching a broken worker-pool wiring without needing the
+   full 200-refit run.
+
+## What broke (extension)
+
+**Symptom.** PyMC's default NUTS sampler measured about 16 seconds per
+model fit on this machine (confirmed by direct timing before writing any
+of the coverage-simulation code). At that rate, even the reduced 1,000-
+refit target (2 models x 1,000 refits x 16s) would have taken roughly 9
+hours, not a feasible single session.
+
+**Wrong hypothesis first.** The initial guess was that the hierarchical
+model itself was too complex for fast sampling, and that the fix would
+need a simpler model (fewer bins, a non-hierarchical structure) at the
+cost of weakening the pooling-vs-no-pooling comparison this extension
+exists to make.
+
+**The measurement that discriminated.** Printing PyTensor's own warning
+(`g++ not available ... PyTensor will be unable to compile
+C-implementations`) pointed at the real bottleneck: without a C compiler,
+PyMC's default sampler falls back to a slow, interpreted Python execution
+path for every single leapfrog step. Switching `nuts_sampler="nutpie"` (a
+separately compiled Rust NUTS implementation PyMC can delegate to,
+installed via `pip install nutpie`, no `g++` required) measured about 2-3
+seconds per fit after a one-time per-process compile, a roughly 6x
+speedup, with no change to the model itself.
+
+**Root cause #2, discovered mid-run.** The first large-scale attempt (a
+4-worker, 1,500-refit run) crashed partway through with `LLVM ERROR: out
+of memory` from `nutpie`'s own JIT compiler. Physical RAM was not the
+problem (9+ GB free throughout); this machine's `C:` drive independently
+dropped to under 1 GB free during the same window, from causes entirely
+unrelated to this project (verified: no large files had been written by
+this session at the times disk space dropped). With the drive nearly
+full, Windows could not grow its pagefile to back the JIT's memory
+request, and the compiler failed. This is disclosed here because it
+materially limited what this extension could measure, not because it
+reflects a flaw in the model or the coverage-simulation code: a retry at
+a much smaller, single-worker, reduced-draws setting (200 refits, 100
+draws/100 tune) completed cleanly once disk space had recovered.
+
+**Consequence for the headline numbers.** The reported coverage run used
+200 refits (2,400 refit-bin checks total), not the 2,000 originally
+planned, and 100 posterior draws per fit instead of 250. This is reported
+as a genuine infrastructure constraint, not a design choice or a second
+"attempt" at the same measurement; the single completed 200-refit run is
+reported as-is, not re-run in search of a more favorable number.
+
+**A genuine, unexpected finding, not just a smaller sample.** The resume
+draft's framing assumed the unpooled model would *undercover* (71%, below
+the 95% nominal level), the classic failure mode of a naive estimator on
+sparse count data. What was actually measured is the opposite: the
+unpooled model *overcovers* (98.12%), because its fixed, wide prior
+produces intervals wide enough to trivially contain almost any held-out
+rate, not intervals that are poorly calibrated in the direction assumed.
+The pooled model's coverage (94.63%) is much closer to both the 95%
+nominal level and the resume draft's own 94% figure.
+
+## Measured results (extension)
+
+Machine: AMD Ryzen 7 7800X3D, 8 physical / 16 logical cores, Windows 11,
+Python 3.12.10 native Windows, PyMC 6.4.0, `nutpie` 0.16.11. Raw stdout in
+`docs/hb_glm_single_fleet_output.txt` and `docs/coverage_simulation_output.txt`.
+
+| # | Claim | Metric | Measured | Target | Meets claim |
+|---|---|---|---|---|---|
+| 1 | simulated fleet where most road-speed bins observe zero events | zero-event bin count, single run | **11 of 12 bins (91.7%)** | majority | true |
+| 2 | negative-binomial GLM with a log-exposure offset and partial pooling across bins, fit by MCMC | model family and fit method | PyMC `NegativeBinomial` likelihood, `exposure` as a multiplicative offset, `bin_eff ~ Normal(0, sigma)` with `sigma` estimated (pooled), NUTS via `nutpie` | n/a (design) | true |
+| 3 | 95% posterior intervals covered the held-out rate on 94% of 2,000 refits | pooled coverage fraction | **94.63%** over 200 refits x 12 bins = 2,400 checks (2,000 refits planned, reduced to 200 by an infrastructure failure; see "What broke") | 94% over 2,000 refits | true on coverage value (94.63% vs. 94%); refit count short of target, disclosed |
+| 4 | 71% coverage unpooled | unpooled coverage fraction | **98.12%** over the same 2,400 checks | 71% | false (unpooled overcovers, the opposite direction from the resume draft's assumption; see "What broke") |
+| 5 | fleet rate reported against a cited human benchmark of 188 crashes per 100M miles | simulated 12-bin fleet rate / human rate, matched units | **101.06 per 100M VMT** vs. **188.00 per 100M VMT** human (0.538x), from the single-fleet run (1 total event over 720,000 simulated miles) | n/a (comparison, no numeric target) | true |
+
+Precise definitions:
+- **Pooled/unpooled coverage**: fraction of (refit, bin) pairs where the
+  95% equal-tailed posterior interval for that bin's per-mile rate
+  contains that bin's own held-out-period observed rate
+  (`held-out counts / held-out exposure`, exposure = 50x the training
+  period's), aggregated over all 200 refits x 12 bins.
+- **200 refits, not 2,000**: the production run used `draws=100,
+  tune=100, n_workers=1`, a deliberately conservative setting chosen
+  after the disk-space-driven crash described in "What broke", not the
+  `draws=250, tune=250, n_workers=4` setting the first (crashed) attempt
+  used.
+- **Divergences**: 16 of 20,000 pooled-model post-warmup draws diverged
+  (0.08%), 0 of 20,000 unpooled-model draws; a divergence rate this low
+  is not treated as invalidating the pooled coverage number, but is
+  disclosed rather than silently dropped.
+
+**Row 4, not row 3, is the more informative finding.** Row 3 came close
+to confirming the resume draft's own number; row 4 contradicts its
+direction entirely. An unpooled model on sparse count data is
+conventionally assumed to be poorly calibrated in the undercoverage
+direction (too confident); this project's specific unpooled baseline
+(a fixed, wide, non-adaptive prior) is instead too conservative, which is
+a real, useful distinction a reader should take away over the single
+"94% vs 71%" headline contrast the resume draft implied.
+
+## Extension limitations
+
+- The 200-refit coverage run is well short of the 2,000 originally
+  planned, for a disclosed infrastructure reason ("What broke"), not a
+  design choice; the 94.63%/98.12% coverage figures carry more sampling
+  uncertainty than a 2,000-refit run would.
+- The "unpooled" baseline is one specific, defensible definition of "no
+  pooling" (a fixed, wide prior with no shared hyperparameter); a
+  frequentist MLE-with-Wald-interval baseline, or an unpooled model with
+  a narrower fixed prior, would likely produce different, and possibly
+  undercovering, results. This extension's finding (unpooled overcovers)
+  is specific to this definition, not a universal claim about every
+  possible unpooled baseline.
+- The 12-bin fleet's true per-mile rates, exposure weights and
+  dense/light-traffic split are design choices for this extension, same
+  disclosure as the original 5-bin fleet.
+- 16 pooled-model divergences were observed and disclosed but not
+  individually investigated (e.g., by reparameterizing to a non-centered
+  hierarchical form); a production use of this model would want that
+  follow-up before trusting its intervals at face value.
 
 ## Limitations
 

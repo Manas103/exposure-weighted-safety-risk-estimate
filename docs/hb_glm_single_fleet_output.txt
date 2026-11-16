@@ -1,0 +1,42 @@
+g++ not available, if using conda: `conda install gxx`
+NUTS[nutpie]: [sigma, mu0, bin_eff, alpha]
+C:\Users\Manas\Downloads\Auto Job Applier\Total Job Application process flow\projects\exposure-weighted-safety-risk-estimate\venv\Lib\site-packages\pytensor\tensor\rewriting\elemwise.py:1039: UserWarning: Loop fusion failed because the resulting node would exceed the kernel argument limit.
+  warn(
+Fleet bins: 12, miles simulated per bin: 60000
+Zero-event bins this run: 11 of 12 (91.7%)
+  bin=urban_0_25_dense               true_rate=3.400e-06 n_events=0
+  bin=urban_0_25_light               true_rate=2.600e-06 n_events=0
+  bin=arterial_25_35_dense           true_rate=1.500e-06 n_events=0
+  bin=arterial_25_35_light           true_rate=1.100e-06 n_events=1
+  bin=arterial_35_45_dense           true_rate=1.700e-06 n_events=0
+  bin=arterial_35_45_light           true_rate=1.300e-06 n_events=0
+  bin=suburban_45_55_dense           true_rate=2.200e-06 n_events=0
+  bin=suburban_45_55_light           true_rate=1.800e-06 n_events=0
+  bin=highway_55plus_cruise          true_rate=2.400e-06 n_events=0
+  bin=highway_55plus_merge           true_rate=3.000e-06 n_events=0
+  bin=highway_55plus_construction    true_rate=3.800e-06 n_events=0
+  bin=rural_55plus_light             true_rate=1.000e-06 n_events=0
+
+Pooled (partial-pooling) posterior per-bin rate, 95% credible interval:
+  urban_0_25_dense               point=9.990e-07  95% CI=[4.519e-08, 1.397e-05]  <- zero-event bin
+  urban_0_25_light               point=8.457e-07  95% CI=[4.189e-08, 1.081e-05]  <- zero-event bin
+  arterial_25_35_dense           point=9.946e-07  95% CI=[3.335e-08, 8.741e-06]  <- zero-event bin
+  arterial_25_35_light           point=1.659e-06  95% CI=[2.102e-07, 1.664e-05]
+  arterial_35_45_dense           point=9.487e-07  95% CI=[3.771e-08, 1.083e-05]  <- zero-event bin
+  arterial_35_45_light           point=9.473e-07  95% CI=[3.619e-08, 8.620e-06]  <- zero-event bin
+  suburban_45_55_dense           point=9.742e-07  95% CI=[3.708e-08, 1.025e-05]  <- zero-event bin
+  suburban_45_55_light           point=9.677e-07  95% CI=[5.208e-08, 1.106e-05]  <- zero-event bin
+  highway_55plus_cruise          point=9.311e-07  95% CI=[5.014e-08, 8.261e-06]  <- zero-event bin
+  highway_55plus_merge           point=8.824e-07  95% CI=[4.009e-08, 7.149e-06]  <- zero-event bin
+  highway_55plus_construction    point=9.047e-07  95% CI=[3.165e-08, 1.031e-05]  <- zero-event bin
+  rural_55plus_light             point=9.006e-07  95% CI=[3.955e-08, 9.662e-06]  <- zero-event bin
+
+DuckDB SQL fleet rate: 1.010612e-06/mile; independent NumPy reference: 1.010612e-06/mile (match: True)
+Total simulated events: 1 over 720000 total miles across all bins
+Exposure-weighted fleet collision rate (posterior-point-estimate-based): 1.010612e-06 per mile
+  -> 989,500 miles per event
+  -> 101.06 events per 100M vehicle miles
+
+Human benchmark: 188.00 crashes per 100M VMT
+  Source: NHTSA Traffic Safety Facts (police-reported crashes, all severities): ~6.0M crashes/year over ~3.2T vehicle miles traveled/year implies ~188 crashes per 100M VMT. Stated as a fixed, cited public figure, not fetched live by this repository.
+  Simulated-fleet-rate / human-rate ratio: 0.538x
